@@ -56,7 +56,7 @@ passport.use(new FacebookStrategy({
 
         clientSecret: 'd5ee2fc7cd19ce875ea390ec69556ea1',
 
-        callbackURL: "http://localhost:3000/auth/facebook/callback"
+        callbackURL: "http://13.209.5.61:3000/auth/facebook/callback"
 
     },
 
